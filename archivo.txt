@@ -1,0 +1,1 @@
+std::cout << "¡Hola, Mundo!" << std::endl;
